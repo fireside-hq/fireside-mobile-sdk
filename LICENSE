@@ -1,0 +1,36 @@
+Fireside SDK License
+
+Copyright (c) 2026 Fireside. All rights reserved.
+
+* Use of the Fireside SDK (the "Software") is permitted only to enable use of
+  the Fireside platform by customers of Fireside.
+
+* The Software is made available in compiled form only. You may not reverse
+  engineer, decompile, or disassemble the Software, or otherwise attempt to
+  derive its source code, except to the extent applicable law expressly
+  permits notwithstanding this restriction.
+
+* You may include the unmodified Software in your own applications. You may
+  not modify it or create derivative works from it. Ordinary build-time
+  processing by your toolchain — including shrinking, optimisation,
+  obfuscation, and repackaging — is not a modification for the purposes of
+  this condition.
+
+* The name of Fireside may not be used to endorse or promote your
+  applications without specific prior written permission.
+
+* Redistribution of the Software is disallowed except with specific prior
+  written permission, and except as embedded within your own applications. Any
+  such redistribution must retain the above copyright notice, this list of
+  conditions and the following disclaimer.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS "AS IS" AND ANY EXPRESS OR
+IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY DIRECT,
+INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING,
+BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY
+OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE,
+EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
