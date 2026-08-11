@@ -15,12 +15,9 @@ will block you.
 |---|---|---|
 | Android | Maven Central | `ai.fireside:sdk-android:<version>` |
 | iOS | Swift Package Manager | `https://github.com/fireside-hq/fireside-ios-sdk.git` |
+| Flutter | pub.dev | `fireside_flutter` |
 
-Both have the same version number.
-
-**Flutter is not published.** This release puts no `fireside_flutter` package on
-pub.dev. So there is no package name to install. Talk to your Fireside
-representative if you need Flutter.
+All three have the same version number.
 
 ## Before it will work
 
