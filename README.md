@@ -42,7 +42,7 @@ Two things here are easy to get wrong:
   `.staging`, its id is not the id you registered. Send us every id you ship.
 
 If the id of the running app is not on your key, the build still works. Nothing
-looks wrong. But the SDK makes one call of its own, started by `init`, and that
+looks wrong. But the SDK makes one call of its own when you start it, and that
 call checks your key and your app id together. The server answers that call with
 an HTTP **403** error. Your code never sees it. What you do see is this: every
 later call to `present` and `fetchInterviewStatuses` gives back an **integration
@@ -81,6 +81,11 @@ data, so your testing does not mix into your real numbers.
 
    The key is publishable, which means it is safe to ship inside your app. What
    protects it is the list of app ids above, not secrecy.
+
+## Privacy and legal
+
+Please talk to your Fireside representative about the Fireside SDK's privacy,
+legal, and data collection.
 
 ## Licence
 
